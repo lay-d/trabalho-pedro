@@ -1,7 +1,10 @@
-
 body {
+   font-family: 'Courier New', Courier, monospace;
+      
+      } 
+    input{
    
-    background-color: rgb(207, 13, 251);
+      background-color: rgb(207, 13, 251);
       color: black;
-     position: center;
+     
 }
