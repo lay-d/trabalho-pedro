@@ -19,6 +19,12 @@ if(isset($_POST['cadastra'])){
 <meta charset="utf-8"/>
 <title>Mural de pedidos</title>
 <link rel="stylesheet" href="style.css"/>
+<div class="mural-pedidos">
+  <div class="pedido">
+  </div>
+  <div class="pedido">
+  </div>
+</div>
 <script src="scripts/jquery.js"></script>
 <script src="scripts/jquery.validate.js"></script>
 <script>
