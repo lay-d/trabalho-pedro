@@ -12,15 +12,16 @@ body {
     margin: 0;
     
     text-align: center;
-    color: #8A2BE2; /* lilás para o texto */
+    color: #8A2BE2; 
   }
   
   .mural {
-    border: 3px solid #8A2BE2; /* borda lilás */
+    border: 3px solid #8A2BE2; 
     padding: 20px;
-    border-radius: 10px; /* cantos arredondados, opcional */
+    border-radius: 10px; 
   }
   
 
 
   
+
