@@ -23,25 +23,4 @@ body {
   
 
 
-
-
-.mural {
-    background-color: rgba(138, 43, 226, 0.15); /* fundo lilás clarinho translúcido */
-    border: 3px solid #8A2BE2; /* borda lilás */
-    padding: 30px 40px; /* espaçamento confortável */
-    border-radius: 15px; /* cantos arredondados */
-    max-width: 600px; /* largura máxima para não ficar esticado demais */
-    box-shadow: 0 8px 20px rgba(138, 43, 226, 0.3); /* sombra suave lilás */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* fonte limpa */
-    font-size: 18px;
-    line-height: 1.5;
-    color: #8A2BE2; /* cor do texto lilás */
-    text-align: center;
-    transition: transform 0.3s ease; /* efeito suave no hover */
-  }
-  
-  .mural:hover {
-    transform: scale(1.05); /* leve aumento ao passar o mouse */
-    box-shadow: 0 12px 30px rgba(138, 43, 226, 0.5);
-  }
   
