@@ -16,14 +16,14 @@ display: flex;
 }
 
 .mural {
-  border: 3px solid #4b062c; 
+  border: 5px solid #4b062c; 
   padding: 20px;
   border-radius: 100px; 
 }
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f4;
+  background-color: #cc137f;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,10 +32,10 @@ body {
 }
 
 .form-container {
-  background-color: #fff;
+  background-color: #920776;
   padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 2px 10px rgb(103, 9, 76);
   width: 100%;
   max-width: 400px;
 }
@@ -43,9 +43,9 @@ body {
 
 label {
   display: block;
-  margin-bottom: 8px;
+  margin-bottom: 20px;
   font-weight: bold;
-  color: #333;
+  color: #81084f;
 }
 
 input[type="text"],
@@ -54,31 +54,31 @@ textarea {
   width: 100%;
   padding: 10px;
   margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  border: 5px solid #b20587;
+  border-radius: 30px;
   box-sizing: border-box; 
 }
 
 
 button {
-  background-color: #007bff;
-  color: white;
+  background-color: #ff00a6;
+  color: rgb(137, 10, 86);
   padding: 12px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 30px;
   cursor: pointer;
   width: 100%;
   font-size: 16px;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #b3007d;
 }
 
 
 input:focus,
 textarea:focus {
-  border-color: #007bff;
+  border-color: #ff00bb4a;
   outline: none;
 }
 
